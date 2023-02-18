@@ -1,3 +1,3 @@
-module github.com/yellowpuki/utils
+module github.com/yellowpuki/utils/v2
 
 go 1.20
